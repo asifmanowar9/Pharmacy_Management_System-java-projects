@@ -1,0 +1,9 @@
+a	a
+t	t
+b	b
+
+s	s
+asif	1234
+kawya	asad
+asif	1234
+adfgdgfdg	fdgdsfgsdfg

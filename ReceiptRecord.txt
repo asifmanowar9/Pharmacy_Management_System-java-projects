@@ -1,0 +1,69 @@
+	*************************
+	         RECEIPT
+	*************************
+
+	Date and Time : Mon Jul 08 21:24:18 BDT 2024
+	Full Name : qwewer
+	Phone Number : 12334
+	Medicine Name : napa
+	Medicine Code : 01
+	Total Strips  : 1
+	Total Price   : 10.00TK
+	Expiry Date   : Jun-27-2026
+
+	*************************
+	      THANK YOU!
+	*************************
+	*************************
+	         RECEIPT
+	*************************
+
+	Date and Time : Mon Jul 08 21:25:45 BDT 2024
+	Full Name : asdsadf
+	Phone Number : 23423423
+	Medicine Name : Ace
+	Medicine Code : 11
+	Total Strips  : 1
+	Total Price   : 12.00TK
+	Expiry Date   : Jul-3-2027
+
+	*************************
+	      THANK YOU!
+	*************************
+	*************************
+	         RECEIPT
+	*************************
+
+	Date and Time : Mon Jul 08 22:17:02 BDT 2024
+	Full Name : kkakakaka
+	Phone Number : 1324657987
+	Medicine Name : Tafnil
+	Medicine Code : 33
+	Total Strips  : 2
+	Total Price   : 180.00TK
+	Expiry Date   : Jul-5-2028
+
+	*************************
+	      THANK YOU!
+	*************************
+
+
+
+
+	*************************
+	         RECEIPT
+	*************************
+
+	Date and Time : Jul-11-2024 23:42:50
+	Full Name : asif
+	Phone Number : 0457/9852
+	Medicine Name : napa
+	Medicine Code : 01
+	Total Strips  : 2
+	Total Price   : 20.00TK
+	Expiry Date   : Jun-27-2026
+
+	*************************
+	      THANK YOU!
+	*************************
+
