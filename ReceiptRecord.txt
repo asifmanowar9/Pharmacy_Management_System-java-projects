@@ -67,3 +67,20 @@
 	      THANK YOU!
 	*************************
 
+	*************************
+	         RECEIPT
+	*************************
+
+	Date and Time : Aug-10-2024 20:51:05
+	Full Name : Asif
+	Phone Number : sdsadsafdf
+	Medicine Name : napa
+	Medicine Code : 01
+	Total Strips  : 3
+	Total Price   : 30.00TK
+	Expiry Date   : Jun-27-2026
+
+	*************************
+	      THANK YOU!
+	*************************
+
